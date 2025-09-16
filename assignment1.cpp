@@ -6,7 +6,7 @@ int main() {
     std::cout << "Assignment 1 Demo" << std::endl;
     // following the assignment instructions
     // resume my assignment1.cpp: etc...
-    
+    // add any now lines of code here if needed
     // always return 0 to indicate that the program ended successfully
     return 0;
 }
